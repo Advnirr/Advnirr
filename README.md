@@ -8,6 +8,9 @@
   <a href="mailto:mikhail@advnirr.org">
     <img src="https://img.shields.io/badge/Email-mikhail@advnirr.org-5B7CC4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
   </a>
+  <a href="#support">
+    <img src="https://img.shields.io/badge/Support-USDT%20(TON)-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="Support with USDT (TON)">
+  </a>
 </p>
 
 ---
@@ -26,3 +29,15 @@ Mostly **Python** and **C**, usually on hardware that other people gave up on.
 
 - **Website** — [advnirr.org](https://advnirr.org)
 - **Email** — [mikhail@advnirr.org](mailto:mikhail@advnirr.org)
+
+### Support
+
+Most of what I build — kernel bring-up, driver reverse engineering, tooling — is
+unpaid, open-source work done on my own time. If any of it saved you effort or
+helped your project, you can support the work directly:
+
+**USDT** · TON network
+
+```
+UQDFela8stCZykNL2cLw2erPkzjAgSf-GLXoJuiTEmEckTNB
+```
